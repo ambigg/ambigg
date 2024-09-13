@@ -16,7 +16,6 @@
 - A passionate Self-taught developer
 - Going to hackathons at spare time
 - Currently learning Web 3 by my Self
-- Personal website [link]()
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
