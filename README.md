@@ -7,7 +7,7 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" alt="about me"></picture> **About me**
+**About me**
 
 <picture> <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b76114bc6owuwsrmb8off4rv0l84lv7tkkkr7880m55k5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px" alt="right side image"></picture>
 
