@@ -16,7 +16,7 @@
 - Passionate developer exploring new technologies
 - Participating in hackathons during my free time
 - Currently diving into Web3 development
-- Open to internships or new job opportunities—here’s my resume [my resume]()
+- Open to internships or new job opportunities—here’s [my resume]()
 
 <br><br>
 
