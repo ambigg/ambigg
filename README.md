@@ -51,11 +51,7 @@
 
 <ul>
 
-  <li>
-    <a href="https://www.linkedin.com/in/diego-gonzalez-a216192a8/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin:-diego--gonzalez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-    </a>
-  </li>
+
 
   <br>
 
