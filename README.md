@@ -13,10 +13,10 @@
 
 <br>
 
-- A passionate developer
-- Going to hackathons at spare time
-- Currently learning Web 3
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- Passionate developer exploring new technologies
+- Participating in hackathons during my free time
+- Currently diving into Web3 development
+- Open to internships or new job opportunities—here’s my resume [my resume]()
 
 <br><br>
 
