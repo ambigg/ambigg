@@ -61,7 +61,7 @@
 
   <li>
     <a href="mailto:imela2811@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail:-imela-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/gmail:ambi%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
     </a>
   </li>
 
