@@ -32,9 +32,9 @@
 <p align="center">
   <div>
     <p>
-      <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50" alt="html">
-      <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="css">
-      <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" alt="javascript">
+                                      <br>      
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="a">
+      <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="javascript">
       <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="react">
       <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" alt="nodejs">
       <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50" alt="python">
