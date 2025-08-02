@@ -6,28 +6,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FF69B4&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3" alt="Typing SVG">
   </a>
 </p>
-<br>
 
 **About me**
-
-<picture> <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b76114bc6owuwsrmb8off4rv0l84lv7tkkkr7880m55k5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px" alt="right side image"></picture>
-
-<br>
-
 - Passionate developer exploring new technologies
 - Participating in hackathons during my free time
 - Currently diving into Web3 development
 - Open to internships or new job opportunities—here’s [my resume]()
 
-<br><br>
-
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" alt="skills icon"><b> Skills</b>
-<br>
 
 <p align="center">
   <div>
