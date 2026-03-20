@@ -18,6 +18,9 @@ Neovim • Git • Docker
 **Interests:** Compilers, type systems, developer tooling, systems programming, Backend  
 **Not interested in:** Frontend development
 
+## Projects
+
+*Building in public. Repos coming soon.*
 
 ## Writing
 
