@@ -20,7 +20,7 @@ Neovim • Git • Docker
 
 ## Projects
 
-*Building in public. Repos coming soon.*
+*Building in public.*
 
 ## Writing
 
@@ -30,7 +30,7 @@ Technical blog about Rust, compilers, and systems programming.
 ## Contact
 
 **Email:** ambagg2811@gmail.com  
-**Discord:** its_ambi  
-**Twitter:** @ambigg_
+**Discord:** stitcheddoll_  
+**Twitter:** @stitcheddoll__
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
