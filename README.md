@@ -16,7 +16,6 @@ Took a compilers course, built a parser with LL(1) grammars, realized this is wh
 Neovim • Git • Docker
 
 **Interests:** Compilers, type systems, developer tooling, systems programming, Backend  
-**Not interested in:** Frontend development
 
 ## Projects
 
