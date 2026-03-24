@@ -2,20 +2,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-CS student. I build compilers and developer tools.
+CS student. I build database engines and high-performance systems.
 
 ## About
 
-I write systems-level code in Rust. Previously did web development (Rails, React, Node) and blockchain work during hackathons—now focused on compilers, type systems, and low-level programming.
+I write systems-level code, primarily in C++. Previously did web development and explored compilers—now applying my knowledge of parsing (ASTs) and low-level optimization to build database internals, storage engines, and distributed systems.
 
-Took a compilers course, built a parser with LL(1) grammars, realized this is what I want to do long-term.
+I enjoy tackling hard problems involving memory management, concurrency, and high-throughput architecture. 
 
 ## Tech
 
-**Rust** • Ruby • C/C++ • Go  
-Neovim • Git • Docker
+**C/C++** • Rust • SQL • Go  
+Neovim • Git • CMake • Linux
 
-**Interests:** Compilers, type systems, developer tooling, systems programming, Backend  
+**Interests:** Database Internals, Storage Engines (B-trees/WAL), Distributed Systems, Concurrency, Performance Engineering.
 
 ## Projects
 
@@ -23,8 +23,7 @@ Neovim • Git • Docker
 
 ## Writing
 
-Technical blog about Rust, compilers, and systems programming.  
-[Blog link]
+Technical blog about C++, database internals, and systems programming.  
 
 ## Contact
 
