@@ -28,7 +28,7 @@ Technical blog about C++, database internals, and systems programming.
 ## Contact
 
 **Email:** ambagg2811@gmail.com  
-**Discord:** stitcheddoll_  
-**Twitter:** @stitcheddoll__
+**Discord:** itssiona_ 
+**Twitter:** @itsSiona_
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
