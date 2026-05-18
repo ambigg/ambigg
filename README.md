@@ -1,39 +1,36 @@
 # lazul3
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-CS student building systems in Rust.
+CS student | Backend Developer
 
 ## About
 
-I write systems-level code, primarily in Rust. I've worked on blockchain infrastructure (NEAR Protocol), built a compiler that reached the parser stage, and implemented distributed systems including multicast protocols and P2P filesystems.
+I build backend systems with Python. I also have experience with systems programming in Rust—I've built a compiler, implemented distributed systems (multicast protocols, P2P filesystems), and worked on blockchain infrastructure.
 
-I'm interested in the intersection of distributed systems, storage engines, and blockchain infrastructure.
-
-## Tech
+I understand both high-level application development and low-level system internals, which helps me write performant, well-architected backends.
 
 ## Tech Stack
 
-**Primary:** Rust, C/C++, Distributed Systems  
-**Web3:** Solidity, NEAR Protocol, Ethereum, Foundry  
-**Also work with:** Python, JavaScript/TypeScript, Java, Go  
-**Tools & Infrastructure:** Git, Cargo, Docker, Linux
+**Primary:** Python, FastAPI, PostgreSQL  
+**Systems Programming:** Rust, C/C++  
+**Web3:** Solidity, NEAR Protocol, Ethereum  
+**Also work with:** JavaScript/TypeScript, Java, Go  
+**Tools:** Git, Docker, Linux
 
-## Focus Areas
+## Current Focus
 
-- Distributed systems & consensus
-- Storage engines & database internals
-- Blockchain infrastructure
-- Compilers & language tooling
+- Building production-ready REST APIs
+- Database design & optimization
+- Distributed systems & scalability
 
 ## Projects
 
-*Building in public.*
+*Building in public. Check pinned repos.*
 
 ## Contact
 
 **Email:** ambagg2811@gmail.com  
-**Discord:** @lazul3 
-**Twitter:** @lazul33
+**Twitter:** @lazul33  
+**Discord:** @lazul3
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
